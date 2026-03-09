@@ -11,12 +11,12 @@ A Chrome and Firefox extension that opens the ElysianAI billing panel in a brows
 
 ## Installation
 
-### Chrome/Chromium
+### [Chrome/Chromium](https://github.com/ElysianNodes/elysianai-chrome)
 
 1. Open Chrome and go to `chrome://extensions/`
 2. Enable "Developer mode" in the top right
 3. Click "Load unpacked"
-4. Select this extension folder
+4. Select this [extension](https://github.com/ElysianNodes/elysianai-chrome) folder
 
 ### Firefox
 
@@ -67,4 +67,4 @@ The extension requests minimal permissions:
 ## Compatibility
 
 - Firefox 48+ (Manifest V2 with sidebar_action)
-- Chrome 88+ (Manifest V2 - for V3 compatibility, create separate build)
+- [Chrome](https://github.com/ElysianNodes/elysianai-chrome) 88+ (Manifest V2 - for V3 compatibility)
