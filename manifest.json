@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "ElysianAI",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ElysianAI extension that opens billing panel in browser sidebar",
   "browser_specific_settings": {
     "gecko": {
